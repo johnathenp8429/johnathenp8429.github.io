@@ -3,7 +3,6 @@ Title: "Flag project- inprogress"
 date:2018-12-14
 
  My Program:
-
 ```
 (deine size(put-image( star 30"solid" "white")
           320 175
@@ -14,6 +13,7 @@ date:2018-12-14
                               (put-image( rectangle 125 500 "solid" "white") 
                                         50 55 
                                         (rectangle 500 300 "solid" "dark green")))))  
-                                        ```
+                                        
+```
 
 
