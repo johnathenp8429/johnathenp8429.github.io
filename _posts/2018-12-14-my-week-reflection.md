@@ -17,4 +17,4 @@ My Program:
                                         (rectangle 500 300 "solid" "dark green")))))  
                                         
 ```
-![flag image](/images/flag.png)
+![flag image](/image/flag.png)
