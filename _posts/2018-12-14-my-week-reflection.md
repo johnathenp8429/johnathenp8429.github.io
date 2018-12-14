@@ -17,7 +17,4 @@ My Program:
                                         (rectangle 500 300 "solid" "dark green")))))  
                                         
 ```
-
-
-16
-                                        (rectangle 500 300 "solid" "dark green")))))  ```
+file:///home/student/Downloads/WeScheme%20Image%20(3).png
