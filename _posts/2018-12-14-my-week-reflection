@@ -2,7 +2,7 @@ Layout:post
 Title: "Flag project- inprogress"
 date:2018-12-14
 
- # My Program:
+ My Program:
 
 ```
 (deine size(put-image( star 30"solid" "white")
@@ -13,7 +13,7 @@ date:2018-12-14
                               300 160
                               (put-image( rectangle 125 500 "solid" "white") 
                                         50 55 
-                                        (rectangle 500 300 "solid" "dark green")))))
+                                        (rectangle 500 300 "solid" "dark green")))))  
                                         ```
 
 
