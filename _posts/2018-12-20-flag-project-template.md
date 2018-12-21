@@ -13,7 +13,7 @@ The rectangle funtion ```(rectangle rock day "solid" "dark green")``` is the bas
 -   Insert an image that your program currently produces. _then delete this instruction_
 
 * * *
-![Flag](/image/final flag.png)
+![Flag](/image/download (1).png)
 * * *
 
 ## Describe your process.
